@@ -26,7 +26,7 @@ $ node server.js
 ```
 
 ## Author
-- [Riddhi Joshi] 
+- [Riddhi Joshi [https://github.com/RiddJoshi]
 
 ## Technologies
 - HTML
