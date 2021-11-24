@@ -1,7 +1,8 @@
 # The Balloonatic Assylum Phase 2
 
--In this repository, I have implemented phase 2 of the Balloonatic Asylum project in which I have gone over Node, Express, EJS and JSON with some front-end web based technologies. I also attached snapshots of all modules that will be used to understand every page with proper validation and flow. 
--In order to run this project into your system, please download this repository and follow below steps that shows how to install EJS and Express into your system.
+- implemented phase 2 of the Balloonatic Asylum project in which I learnrd Node, Express, EJS and JSON with some front-end web based technologies. all modules that will be used 
+- In order to run this project into your system, please download this repository and follow below steps that shows how to install EJS and Express into your system.
+- please look at the screenhot of project provided.
 
 ## Step 1: Install EJS
 ```bash
@@ -31,8 +32,8 @@ $ node server.js
 ## Technologies
 - HTML
 - CSS
-- JavaScript
-- Node JS
-- Express JS
 - EJS
 - JSON
+- Node JS
+- JavaScript
+- Express JS
